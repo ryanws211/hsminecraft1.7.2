@@ -1,0 +1,39 @@
+[11:17:55] [main/INFO]: Setting user: Player655
+[11:17:57] [Client thread/INFO]: LWJGL Version: 2.9.0
+[11:18:00] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[11:18:01] [Sound Library Loader/INFO]: Sound engine started
+[11:18:02] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[11:18:02] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[11:18:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[11:18:02] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[11:18:02] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[11:18:03] [Sound Library Loader/INFO]: Sound engine started
+[11:18:04] [MCO Availability Checker #1/ERROR]: Couldn't connect to Realms
+[11:18:09] [Server thread/INFO]: Starting integrated minecraft server version 1.7.2
+[11:18:09] [Server thread/INFO]: Generating keypair
+[11:18:09] [Server thread/INFO]: Converting map!
+[11:18:09] [Server thread/INFO]: Scanning folders...
+[11:18:09] [Server thread/INFO]: Total conversion count is 0
+[11:18:10] [Server thread/INFO]: Preparing start region for level 0
+[11:18:11] [Server thread/INFO]: Preparing spawn area: 5%
+[11:18:12] [Server thread/INFO]: Preparing spawn area: 14%
+[11:18:13] [Server thread/INFO]: Preparing spawn area: 26%
+[11:18:14] [Server thread/INFO]: Preparing spawn area: 40%
+[11:18:15] [Server thread/INFO]: Preparing spawn area: 53%
+[11:18:16] [Server thread/INFO]: Preparing spawn area: 68%
+[11:18:17] [Server thread/INFO]: Preparing spawn area: 81%
+[11:18:18] [Server thread/INFO]: Preparing spawn area: 94%
+[11:18:19] [Server thread/INFO]: Player655[local:E:d9e15227] logged in with entity id 241 at (121.5, 59.0, 207.5)
+[11:18:19] [Server thread/INFO]: Player655 joined the game
+[11:18:22] [Client thread/INFO]: Warning: Clientside chunk ticking took 107 ms
+[11:18:46] [Server thread/INFO]: Saving and pausing game...
+[11:18:46] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:18:46] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:18:46] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[11:18:47] [Client thread/INFO]: Stopping!
+[11:18:47] [Server thread/INFO]: Stopping server
+[11:18:47] [Server thread/INFO]: Saving players
+[11:18:47] [Server thread/INFO]: Saving worlds
+[11:18:47] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:18:47] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:18:47] [Server thread/INFO]: Saving chunks for level 'New World'/The End
